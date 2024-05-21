@@ -1,5 +1,4 @@
-Hi everyone, this is my first project practicing data analysis. This dataset was pulled from Kaggle.  
-Here is the source: https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis?select=item_dim.csv  
+source: https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis?select=item_dim.csv  
 This dataset is compromised of 6 dataframes (as of 10/04/2024).    
 ** fact_table ** : serves as main dataframe detailing the purchases made by customers.  
 ** trans_dim ** : detailing sources of transactions   
